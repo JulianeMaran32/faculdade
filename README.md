@@ -1,13 +1,21 @@
-## FACULDADE DE SISTEMAS DE INFORMAÇÃO
+## Faculdade de Sistemas de Informação e Cursos Extracurriculares
 
 Este repositório tem como objetivo apresentar os conhecimentos já adquiridos durante a faculdade.
 
-- **Metodologia Agile** 
-- **Django** 
-- **Programação Orietada a Objetos (POO)** utilizando Java.
-- **Back-end**: PHP, Python, Java.
-- **Front-end**: HTML, CSS, JavaScript, JQuery, JSON.
-- **Frameworks**: Bootstrap.
-- **Banco de Dados**: MySQL, Xamp, SQLite.
-- **IDE**: Eclipse, Pycharm, Sublime Text, Visual Studio Code (VSC), Notepad ++.
-- **Git**: GitHub e GitLab.
+**Desenvolvimento Web:** HTML, CSS, SASS, Bootstrap, JavaScript, ES, PHP, Orientação a Objeto, MySQL, jQuery, MVC, APIs, IONIC, Ajax e WordPress, JSON
+
+**QlikView**
+
+**Desenvolvimento Android:** Java, Android Studio.
+
+**Python**
+
+**Banco de Dados** postgreSQL, MongoDB, Redis, Hadoop, Sqoop, Hive e Pig, Flume, Spark
+
+**LGPD**
+
+**Excel:** básico, avançado, dashboards, power query, VBA.
+
+**Outros:** Scrum, Kanban, Django, criptografia, hardware, Git, Xampp
+
+**IDE:** Eclipse, Pycharm, Sublime Text, Visual Studio Code (VSC), Notepad ++.
