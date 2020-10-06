@@ -10,7 +10,7 @@ Este repositório tem como objetivo apresentar os conhecimentos já adquiridos d
 
 **Python**
 
-**Banco de Dados** postgreSQL, MongoDB, Redis, Hadoop, Sqoop, Hive e Pig, Flume, Spark
+**Banco de Dados:** postgreSQL, MongoDB, Redis, Hadoop, Sqoop, Hive e Pig, Flume, Spark
 
 **LGPD**
 
