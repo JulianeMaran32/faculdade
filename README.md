@@ -4,7 +4,7 @@ Este repositório tem como objetivo apresentar os conhecimentos já adquiridos d
 
 **Desenvolvimento Web:** HTML, CSS, Bootstrap, JavaScript, jQuery, WordPress, JSON
 
-**Banco de Dados:** postgreSQL, MongoDB, Redis, Hadoop, Sqoop, Hive e Pig, Flume, Spark
+**Banco de Dados:** postgreSQL
 
 **Outros:** Scrum, Kanban, Django, criptografia, hardware, Git, Xampp
 
