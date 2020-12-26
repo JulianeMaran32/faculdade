@@ -1,12 +1,7 @@
 ## University of Information Systems
 
-* PT_BR: Este repositório tem como objetivo apresentar os conhecimentos já adquiridos durante a faculdade.
-* EN: This repository aims to present the knowledge already acquired during college.
-
-**Programming Language:** HTML, CSS, Bootstrap, JavaScript, jQuery, WordPress, JSON
-
-**Database:** postgreSQL
-
-**Others:** Scrum, Kanban, Django, criptografia, hardware, Git, Xampp
-
-**IDE:** Eclipse, Pycharm, Sublime Text, Visual Studio Code (VSC), Notepad ++.
+* Prototype: Moqups, Lucid Chats, Layoutit!
+* Programming Language: Python
+* IDE: VSCode, Pycharm, Sublime Text 3
+* Framework: Django, Bootstrap
+* Distributed version control system designed: Git
