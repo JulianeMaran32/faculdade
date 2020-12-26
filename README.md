@@ -4,6 +4,9 @@
 * EN: This repository aims to present the knowledge already acquired during college.
 
 **Programming Language:** HTML, CSS, Bootstrap, JavaScript, jQuery, WordPress, JSON
+
 **Database:** postgreSQL
+
 **Others:** Scrum, Kanban, Django, criptografia, hardware, Git, Xampp
+
 **IDE:** Eclipse, Pycharm, Sublime Text, Visual Studio Code (VSC), Notepad ++.
