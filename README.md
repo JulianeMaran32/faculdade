@@ -6,3 +6,5 @@
 * Framework: Django, Bootstrap
 * Git: distributed version control system designed
 * PythonAnywhere: integrated development environment and web hosting service based on the Python programming language
+* 
+* 2º semestre/2020
